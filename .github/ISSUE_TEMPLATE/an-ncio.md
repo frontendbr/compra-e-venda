@@ -1,7 +1,7 @@
 ---
 name: Anúncio
 about: Template default sugerida para anúncios
-title: ''
+title: "[Cidade] - Titulo do anúncio"
 labels: ''
 assignees: ''
 
