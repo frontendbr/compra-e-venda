@@ -4,6 +4,9 @@
 <h1 align="center">Compra e Venda</h1>
 <p align="center">:money_with_wings: Um espaço para você comprar ou vender produtos ligados a profissão.</p>
 
+## ATENÇÃO:
+
+Esse é um espaço apenas para anúncios, toda a negociação é realizada entre o anunciante e o interessado. A Front-End Brasil não se responsabiliza por eventuais desacordos ou demais problemas entre as partes envolvidas.  
  
 ## Licença
 
